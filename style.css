@@ -3,7 +3,7 @@
 }
 
 #bottom-line { 
-	fill: darkblue;
+	stroke: darkblue;
 	stroke-width: 10px;
  }
 
